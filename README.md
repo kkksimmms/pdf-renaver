@@ -30,6 +30,8 @@
  Защита от дубликатов (_1, _2)
 
  Лог-консоль в реальном времени
+ <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/435332fa-64f5-4328-b403-3825bb2accab" />
+
 
  Standalone .exe — работает без Python
 
@@ -47,4 +49,6 @@ conteiner.py
 Выберите папку с PDF
 
 Дождитесь завершения — результаты в логе
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/f8ca0851-77ba-4413-bc14-c6293d938791" />
+
 
